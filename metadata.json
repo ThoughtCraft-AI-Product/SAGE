@@ -1,0 +1,6 @@
+{
+  "name": "Sage Leadership Workspace",
+  "description": "An elite real-time collaborative notebook and strategic brainstorming tool designed for tech founders and leaders, powered by Aurelius decision analytics, voice interactions, and document sharing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
